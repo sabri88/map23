@@ -34,10 +34,10 @@
 }
 .mesa-de-tortas-4 {
   color: #000000;
-  text-align: left;
+  text-align: right;
   font: 700 italic 26px "Inter", sans-serif;
-  position: absolute;
-  left: 127px;
+  position: relative;
+  left: 227px;
   top: 39px;
   width: 136px;
   height: 68px;

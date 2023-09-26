@@ -1,0 +1,59 @@
+.estoy-en,
+.estoy-en * {
+  box-sizing: border-box;
+}
+.estoy-en {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 165px;
+  height: 53px;
+  position: absolute;
+  left: 312px;
+  top: 121px;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 165px;
+  height: 53px;
+  position: absolute;
+  left: 313px;
+  top: 192px;
+}
+.salon-1 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 39px);
+  top: 131px;
+  width: 105px;
+  height: 33px;
+}
+.salon-2 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 360px;
+  top: 201px;
+  width: 133px;
+  height: 46px;
+}
+.estoy-en2 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 64px;
+  width: 367px;
+  height: 39px;
+}

@@ -1,0 +1,66 @@
+.quiero-ver,
+.quiero-ver * {
+  box-sizing: border-box;
+}
+.quiero-ver {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 177px;
+  height: 53px;
+  position: absolute;
+  left: 298px;
+  top: 119px;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  border-radius: 12px;
+  width: 177px;
+  height: 53px;
+  position: absolute;
+  left: 299px;
+  top: 190px;
+}
+.recepci-n {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 60px);
+  top: 129px;
+  width: 100px;
+  height: 33px;
+}
+.mesa-dulce {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 338px;
+  top: 199px;
+  width: 127px;
+  height: 46px;
+}
+.quiero-ver2 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 330px;
+  top: 62px;
+  width: 351px;
+  height: 39px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 27px;
+  top: 296px;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}

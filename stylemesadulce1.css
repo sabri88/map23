@@ -1,0 +1,142 @@
+.mesa-dulce,
+.mesa-dulce * {
+  box-sizing: border-box;
+}
+.mesa-dulce {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 82.94px;
+  height: 81.05px;
+  position: absolute;
+  left: 207.89px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0.63deg) scale(1, 1);
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 82.94px;
+  height: 81.05px;
+  position: absolute;
+  left: 290.83px;
+  top: 0.85px;
+  transform-origin: 0 0;
+  transform: rotate(0.63deg) scale(1, 1);
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 83.77px;
+  height: 81.05px;
+  position: absolute;
+  left: 374.89px;
+  top: 1px;
+  transform-origin: 0 0;
+  transform: rotate(0.63deg) scale(1, 1);
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  width: 52.91px;
+  height: 120.55px;
+  position: absolute;
+  left: 533px;
+  top: 15.35px;
+  transform-origin: 0 0;
+  transform: rotate(-13.5deg) scale(1, 1);
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 62px;
+  height: 121px;
+  position: absolute;
+  left: 31px;
+  top: 220px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  width: 67px;
+  height: 160px;
+  position: absolute;
+  left: 541px;
+  top: 184px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.mates-te-cafe {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 551px;
+  top: 237px;
+  width: 41px;
+  height: 63px;
+}
+.waffles {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 551.66px;
+  top: 57.2px;
+  width: 43px;
+  height: 20px;
+}
+.mesa-de-torta-1 {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 193px;
+  width: 103px;
+  height: 20px;
+}
+.mesa-de-torta-2 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 233px;
+  top: 17px;
+  width: 45px;
+  height: 20px;
+}
+.mesa-de-torta-3 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 314px;
+  top: 17px;
+  width: 45px;
+  height: 20px;
+}
+.mesa-de-torta-4 {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 397px;
+  top: 19px;
+  width: 45px;
+  height: 20px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 42px;
+  top: 300px;
+  overflow: visible;
+}

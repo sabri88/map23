@@ -1,0 +1,106 @@
+.mesa-dulce,
+.mesa-dulce * {
+  box-sizing: border-box;
+}
+.mesa-dulce {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.rectangle-3 {
+  background: #d9d9d9;
+  width: 62px;
+  height: 121px;
+  position: absolute;
+  left: 31px;
+  top: 220px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+._2-esp-tulas-4-cuchillos-2-canastas-de-tenedores-platos-medianos-servilletas-cucharitas-para-ensalada-de-fruta-flan-dulce-de-leche-crema-cucharas {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 276px;
+  top: 33px;
+  width: 392px;
+  height: 286px;
+}
+._2-esp-tulas-4-cuchillos-2-canastas-de-tenedores-platos-medianos-servilletas-cucharitas-para-ensalada-de-fruta-flan-dulce-de-leche-crema-cucharas-span {
+  color: #000000;
+  font: 400 18px/167.52% "Inter", sans-serif;
+}
+._2-esp-tulas-4-cuchillos-2-canastas-de-tenedores-platos-medianos-servilletas-cucharitas-para-ensalada-de-fruta-flan-dulce-de-leche-crema-cucharas-span2 {
+  color: #000000;
+  font: 400 18px/167.52% "Inter", sans-serif;
+}
+.para-4-copas {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 621px;
+  top: 45px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.mesa-de-tortas-1 {
+  color: #000000;
+  text-align: left;
+  font: 700 italic 26px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 67px;
+  width: 110px;
+  height: 48px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 42px;
+  top: 289px;
+  overflow: visible;
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 99px;
+  height: 81px;
+  position: absolute;
+  left: 659px;
+  top: 113px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.vector-4 {
+  position: absolute;
+  left: 638px;
+  top: 95px;
+  transform: translate(-0.5px, -0.7px);
+  overflow: visible;
+}
+.vector-5 {
+  position: absolute;
+  left: 722.19px;
+  top: 112.93px;
+  transform: translate(-0.5px, 0px);
+  overflow: visible;
+}
+.caja-chica-para-ensalada-de-frutas {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 559px;
+  top: 15px;
+  width: 264px;
+  height: 40px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}

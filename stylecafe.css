@@ -1,0 +1,59 @@
+.mesa-dulce,
+.mesa-dulce * {
+  box-sizing: border-box;
+}
+.mesa-dulce {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  width: 67px;
+  height: 160px;
+  position: absolute;
+  left: 541px;
+  top: 184px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.mesa-de-cafe {
+  color: #000000;
+  text-align: left;
+  font: 700 italic 26px "Inter", sans-serif;
+  position: absolute;
+  left: 538px;
+  top: 24px;
+  width: 231px;
+  height: 63px;
+}
+.cafetera-termo-con-agua-caliente-termo-con-leche-tazas-platos-tazas-platos-chicos-cucharitas-caja-de-te-completa-canastita-para-tirar-sobres-de-edulcorante-y-te {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 15px;
+  width: 307px;
+  height: 265px;
+}
+.azucar-edulcorante-crema-3-azucar-c-cucharita-3-yerba-3-mates-c-bombilla-3-termos {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 304px;
+  top: 15px;
+  width: 192px;
+  height: 234px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 42px;
+  top: 284px;
+  overflow: visible;
+}

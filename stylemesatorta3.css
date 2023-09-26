@@ -1,0 +1,106 @@
+.mesa-dulce,
+.mesa-dulce * {
+  box-sizing: border-box;
+}
+.mesa-dulce {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 82.94px;
+  height: 81.05px;
+  position: absolute;
+  left: 290.83px;
+  top: 0.85px;
+  transform-origin: 0 0;
+  transform: rotate(0.63deg) scale(1, 1);
+}
+._2-esptulas-4-cuchillos-tenedores-platos-medianos-servilletas {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 277px;
+  top: 90px;
+  width: 261px;
+  height: 89px;
+}
+.mesa-de-tortas-3 {
+  color: #000000;
+  text-align: left;
+  font: 700 italic 26px "Inter", sans-serif;
+  position: absolute;
+  left: 97px;
+  top: 34px;
+  width: 136px;
+  height: 68px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 42px;
+  top: 297px;
+  overflow: visible;
+}
+.vector-6 {
+  border-radius: 0px;
+  position: absolute;
+  left: 543px;
+  top: 132px;
+  transform: translate(-0.5px, -0.5px);
+  overflow: visible;
+}
+.vector-7 {
+  border-radius: 0px;
+  position: absolute;
+  left: 679px;
+  top: 133px;
+  transform: translate(-0.5px, -0.5px);
+  overflow: visible;
+}
+.ellipse-5 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 109px;
+  height: 56px;
+  position: absolute;
+  left: 519px;
+  top: 89px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.ellipse-6 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 109px;
+  height: 56px;
+  position: absolute;
+  left: 655px;
+  top: 90px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.posa-tortas {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 588px;
+  top: 38px;
+  width: 219px;
+  height: 20px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}

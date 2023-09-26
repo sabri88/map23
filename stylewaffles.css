@@ -1,0 +1,59 @@
+.mesa-dulce,
+.mesa-dulce * {
+  box-sizing: border-box;
+}
+.mesa-dulce {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #d9d9d9;
+  width: 52.91px;
+  height: 120.55px;
+  position: absolute;
+  left: 533px;
+  top: 15.35px;
+  transform-origin: 0 0;
+  transform: rotate(-13.5deg) scale(1, 1);
+}
+.mesa-de-waffles {
+  color: #000000;
+  text-align: left;
+  font: 700 italic 26px "Inter", sans-serif;
+  position: absolute;
+  left: 14px;
+  top: 16px;
+  width: 234px;
+  height: 36px;
+}
+.wafflera-con-tabla-pinza-tenedor-y-cuchillo-manteca-y-pincel-dulce-de-leche-crema-torta-de-fiesta {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 71px;
+  top: 63px;
+  width: 236px;
+  height: 117px;
+}
+.tenedores-platos-medianos-servilletas {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 291px;
+  top: 79px;
+  width: 109px;
+  height: 36px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 42px;
+  top: 294px;
+  overflow: visible;
+}

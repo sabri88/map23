@@ -1,0 +1,69 @@
+.mesa-dulce,
+.mesa-dulce * {
+  box-sizing: border-box;
+}
+.mesa-dulce {
+  background: #ffffff;
+  width: 800px;
+  height: 360px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 83.77px;
+  height: 81.05px;
+  position: absolute;
+  left: 374.89px;
+  top: 1px;
+  transform-origin: 0 0;
+  transform: rotate(0.63deg) scale(1, 1);
+}
+._1-espatula-4-cuchillos-tenedores-platos-medianos-servilletas-cucharitas-para-postrecitos {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/167.52% "Inter", sans-serif;
+  position: absolute;
+  left: 386px;
+  top: 92px;
+  width: 259px;
+  height: 118px;
+}
+.mesa-de-tortas-4 {
+  color: #000000;
+  text-align: left;
+  font: 700 italic 26px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 39px;
+  width: 136px;
+  height: 68px;
+}
+.i-os-icon-36-back-arrow-reply {
+  position: absolute;
+  right: 42px;
+  top: 290px;
+  overflow: visible;
+}
+.vector-1 {
+  position: absolute;
+  left: 118px;
+  top: 202px;
+  transform: translate(-0.5px, -0.5px);
+  overflow: visible;
+}
+.escalera-para-postrecitos {
+  color: #000000;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  position: absolute;
+  left: 94px;
+  top: 142px;
+  width: 153px;
+  height: 38px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}

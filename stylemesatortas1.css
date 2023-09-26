@@ -51,12 +51,11 @@
 }
 .mesa-de-tortas-1 {
   color: #000000;
-  text-align: left;
+  text-align: right;
   font: 700 italic 26px "Inter", sans-serif;
-  position: absolute;
-  left: 127px;
-  top: 67px;
-  width: 110px;
+  position: relative;
+  left: 127px;  
+  width:210px;
   height: 48px;
 }
 .i-os-icon-36-back-arrow-reply {
